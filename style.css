@@ -1,0 +1,233 @@
+
+  body {
+    margin: 0;
+    color: black;
+    font-family: helvetica;
+    /*font-family: 'Karla', sans-serif;*/
+    letter-spacing: 1px;
+  }
+
+
+  .blurb {
+    font-size: 46px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    padding-bottom: 50px;
+    width: 90%;
+    line-height: 18px;
+    text-align:center;
+    font-style: bold;
+    z-index: 2;
+  }
+
+
+  .switch {
+      border-radius: 50px;
+      background: white;
+      padding-top: 5px;
+      padding-left: 10px;
+      padding-bottom: 7px;
+      margin-left: 50px;
+      margin-top: 50px;
+      width: 90px;
+      height: 25px;
+      border-color: black;
+      border-width: 4px;
+      border-style: solid;
+      /*margin: auto;*/
+      z-index: 5;
+  }
+
+
+  .switch-circle {
+    border-radius: 50px;
+    /*background: blue;*/
+    border-color: black;
+    border-width: 4px;
+    border-style: solid;
+    width: 20px;
+    height: 20px;
+    position: absolute;
+  }
+
+  .bkground-img {
+    position: relative;
+    z-index: -1px;
+    top:0px;
+  }
+
+
+
+
+a {
+text-decoration: none;
+color:black;
+display:inline-block;
+}
+
+.sign-up {
+padding-bottom: 100px;
+margin-top: 10px;
+margin-left: 0 auto;
+margin-right: 0 auto;
+text-align: center;
+/*background: #F3D7A5;*/
+
+
+}
+input {
+  border-color: black;
+  width: 350px;
+  height: 40px;
+  font-size: 18px;
+  padding-left: 10px;
+  border-radius: 25px;
+  background-color: transparent;
+}
+
+textarea, input, button { outline: none; }
+
+.desc {
+width: 40%;
+font-size: 40px;
+background-color: white;
+  line-height: 55px;
+  font-weight: bold;
+  text-align: left;
+  margin: 0 auto;
+  box-shadow: 2px 2px 5px #888888;
+  padding: 20px;
+  margin-bottom: 50px;
+  border-radius: 15px;
+
+}
+
+.desc1 {
+top: 900px;
+left: 40%;
+
+}
+h2 {
+margin-left: auto;
+  margin-right: auto;
+font-size: 14px;
+text-transform: uppercase;
+letter-spacing: 2px;
+line-height: 28px;
+width: 500px;
+/*font-family: caslon;*/
+}
+
+h6 {
+font-weight: 100;
+font-size: 36px;
+letter-spacing: 1px;
+line-height: 40px;
+font-weight: bold;
+}
+
+h4 {
+  font-weight: lighter;
+  margin-top: -50px;
+  margin-bottom: 50px;
+}
+
+.greeting {
+padding-top: 100px;
+font-size: 80px;
+line-height: 90px;
+margin-top: none;
+margin-bottom: 150px;
+text-align: left;
+}
+
+.hello {
+font-weight: 200;
+font-size: 36px;
+margin-bottom: 0px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 0px;
+text-align: left;
+padding-bottom: 0px;
+}
+
+.button {
+font-size: 18px;
+line-height: 18px;
+letter-spacing: 1px;
+border-style: solid;
+border-color: black;
+padding: 20px;
+width: 20%;
+border-radius: 50px;
+margin: 0 auto;
+margin-top: 50px;
+color: black;
+}
+
+.button:hover {
+color: white;
+}
+
+label {
+text-align: left;
+border-radius: 25px;
+margin: 10px;
+}
+
+#mc_embed_signup {
+width: 90%;
+background: transparent;
+
+
+}
+
+.form {
+background-color: white;
+  width: 55%;
+  margin: 0 auto;
+  margin-top: -50px;
+  text-align: center;
+  padding: 40px;
+    padding-top: 10px;
+    border-style: solid;
+    border-color: black;
+    border-width: 10px;
+    margin-bottom: 50px;
+
+
+
+}
+
+.features {
+  margin-left: -200px;
+}
+
+.narrative {
+  padding-top: -100px;
+  width: 60%;
+  font-size: 18px;
+  line-height: 26px;
+  margin: 0 auto;
+
+}
+
+.shield {
+  margin-top: 50px;
+}
+
+.footer {
+  font-size: 12px;
+  color:gray;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.bkground {
+  margin-top: -50px;
+  padding-bottom: 50px;
+}
